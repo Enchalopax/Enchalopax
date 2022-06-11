@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Enchalopax
+- 👋 Hi, I’m Ench
 - 👀 I’m interested in ... Minecraft  
-- 🌱 I’m currently learning ... Life
-- 💞️ I’m looking to collaborate on ... Stuff
-- 📫 How to reach me ... Discord (Ench#2021)
+- 🌱 I’m currently learning ... Stuff
+- 💞️ I’m looking to collaborate on ... things
+- 📫 How to reach me ... Discord (Ench#5535)
 
 <!---
 Enchalopax/Enchalopax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
